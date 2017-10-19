@@ -1,28 +1,39 @@
 <html>
-<title>Tablestory COntributers</title>
+<title>Tablestory Contributers</title>
 <head></head>
 <body> 
 <ul>
+<li>
 Wacksteven 
-https://www.twitch.tv/wacksteven 
-https://twitter.com/wacksteven
+<a href="https://www.twitch.tv/wacksteven>
+<img src="img/wacksteven.jpg" alt="wack" height="42" width="42"></a>
+<a href="https://twitter.com/wacksteven>
+<img src="img/twitter.jpg" alt="twitter" height="" width="42"></a>
+</li>
 
-
+<li>
 Bradwoto
-https://www.twitch.tv/bradwoto
-https://twitter.com/buffwoto
+<a href="https://www.twitch.tv/bradwoto>
+<img src="img/bradwoto.jpg" alt="brad" height="42" width="42"></a>
+<a href="https://twitter.com/buffwoto>
+<img src="img/twitter.jpg" alt="twitter" height="" width="42"></a></a>
+</li>
 
-
-
+<li>
 Distracted Elf
-https://twitter.com/DistractedElf
-https://www.twitch.tv/distractedelf
+<a href="https://twitter.com/DistractedElf>
+<img src="img/distractedelf.jpg" alt="elf" height="42" width="42"></a>
+<a href="https://www.twitch.tv/distractedelf>
+<img src="img/twitter.jpg" alt="twitter" height="42" width="42"></a></a>
+</li>
 
+<li>
 Brotatoe
-https://www.twitch.tv/brotatoe
-https://twitter.com/jaybrotatoe?lang=en
-
-
+<a href="https://www.twitch.tv/brotatoe">
+<img src="img/brotatoe.jpg" alt="bro" height="42" width="42"></a>
+<a href="https://twitter.com/jaybrotatoe?lang=en>
+<img src="img/twitter.jpg" alt="twitter" height="42" width="42"></a>
+</li>
 </ul>
 
 </body>
