@@ -1,16 +1,24 @@
+<!DOCTYPE html>
 <html>
-<title>Tablestory Main</title>
-<head></head>
-<body> 
-<ul>
-Ascendance
-Ilios
-Dustvale
-neon scream
-Khwarezmia
-BAMF!!!
-Pandemonium
-Storm King's Thunder
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Best City Guide</title>
+  <link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/TSstyle.css">
+</head>
+<body>
+	<header class="main-header">
+		<h1 class="name"><a href="#">Tablestory</a></h1>
+		<ul class="main-nav">
+	
+<li><a href="#">Ascendance</a></li>
+<li><a href="#">Ilios</a></li>
+<li><a href="#">Dustvale</a><li>
+<li><a href="#">neon scream</a></li>
+<li><a href="#">Khwarezmia</a></li>
+<li><a href="#">BAMF!!!</a></li>
+<li><a href="#">Pandemonium</a></li>
+<li><a href="#">Storm King's Thunder</a></li>
 
 </ul>
 
