@@ -2,7 +2,8 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Best City Guide</title>
+	<title>Tablestory Home</title>
+
   <link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/TSstyle.css">
 </head>
@@ -11,14 +12,14 @@
 		<h1 class="name"><a href="#">Tablestory</a></h1>
 		<ul class="main-nav">
 	
-<li><a href="#">Ascendance</a></li>
-<li><a href="#">Ilios</a></li>
-<li><a href="#">Dustvale</a><li>
-<li><a href="#">neon scream</a></li>
-<li><a href="#">Khwarezmia</a></li>
-<li><a href="#">BAMF!!!</a></li>
-<li><a href="#">Pandemonium</a></li>
-<li><a href="#">Storm King's Thunder</a></li>
+<li><a href="">Ascendance</a></li>
+<li><a href="">Ilios</a></li>
+<li><a href="">Dustvale</a><li>
+<li><a href="">neon scream</a></li>
+<li><a href="">Khwarezmia</a></li>
+<li><a href="">BAMF!!!</a></li>
+<li><a href="">Pandemonium</a></li>
+<li><a href="">Storm King's Thunder</a></li>
 
 </ul>
 
