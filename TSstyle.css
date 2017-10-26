@@ -3,24 +3,24 @@
 body {
 	font-family: Trebuchet MS, 'Varela Round', sans-serif;
 	line-height: 1.6;
-	color: #3a3a3a;
+	color: black;
 }
 
 p {
-	font-size: .95em;
-	margin-bottom: 1.8em;
+	font-size: 2.5em;
+	margin-bottom: 2.0em;
 }
 
 h2,
 h3,
 a {
-	color: #093a58;
+	color: #A27D00;
 }
 
 h2,
 h3,
 h4 {
-	margin-top: 0;
+	margin-top: 3.em;
 }
 
 h4 {
@@ -35,20 +35,6 @@ img {
 	max-width: 100%;
 }
 
-figure {
-	margin: 0;
-	line-height: 0;
-	position: relative;
-}
-
-figcaption {
-	font-size: .9em;
-	line-height: 1.5;
-	color: #fff;
-	padding: 1em;	
-	background: rgba(19,43,102, .85);
-	
-	position: absolute;
-	bottom: 0;
-	width: 100%;
+img:hover { 
+    background-color: #A27D00;
 }
