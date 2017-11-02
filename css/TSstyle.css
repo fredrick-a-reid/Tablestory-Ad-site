@@ -1,24 +1,25 @@
 
-
+/*change the fonts height color and families*/
 body {
 	font-family: "Trebuchet MS", "Varela Round", "sans-serif";
-	line-height: 1.6;
-	color: black;
+		line-height: 1.6;
+			color: black;
 }
 
+/*change paragraph font size and margins*/
 p {
 	font-size: 2.5em;
-	margin-bottom: 2.0em;
+		margin-bottom: 2.0em;
 }
-
+/*color headings and Hypertext links*/
 h2,
 h3,
 a {
 	color: #A27D00;
 }
-
+/*styling Hypertext Links*/
 a {
-	text-decoration: none;
+	text-decoration: underlined;
 }
 
 /* unvisited link */
@@ -45,23 +46,25 @@ img {
 	max-width: 100%;
 }
 
+/*Resize and color (background) Images when hovered */
 img:hover { 
     background-color: #A27D00;
+	transform: scale(1.5, 1.5);
 }
 
+/* wrap the main page navigation in a flexbox*/
 .pagenav {
-display: flex;
-flex-wrap: wrap;
+	display: flex;
+		flex-wrap: wrap;
 }
-
+/*change these headings background color take make them stand out*/
 .header {
-background-color: #A27D00;
-
+background-color: #51351c;
 }
 	
-
+/* wrap the shows into a columned flexbox*/
 .showlist{
-display: flex;
-flex-direction: column;
-flex-wrap: wrap;
+	display: flex;
+		flex-direction: column;
+			flex-wrap: wrap;
 }
