@@ -2,181 +2,238 @@
 <title>Tablestory Showlist</title>
 <head><a href=""><img src="img/tavernly.jpg" alt="Banner"></a></head>
 <body> 
-<ul>
+<div class="showlists"> 
 <div class="header">
 <h1>Ascendance</h1></div>
+
+<div class="show">
 DM: 
 <a href="">Brotatoe</a>
 
-Players:
+<h3>Players:</h3>
 <a href=""><img src="img/kiwion.jpg" alt="Kiwion"></a>
  <a href="">Kiwion,</a> as Thea Ashe / Rogue
+ <br>
  
  <a href=""><img src="img/fairlight.jpg" alt="Fairlight Excalibur">Fairlight_Excalibur,</a> 
  as Gotho / Monk
+ <br>
  
  <a href=""><img src="img/generalmittenz.jpg" alt="General Mittenz">General_Mittenz,</a> 
  as Jodie Monet / Fighter
+ <br>
  
  <a href=""><img src="img/elspeth.jpg" alt="Elspeth">Elspeth</a>
  as Aniphora Mystis / Bard
+ <br>
+ </div>
 
 <div class="header"><h1>BAMF!!!</h1></div>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
-Players:
+<div class="show">
+<h3>Players:</h3>
  <a href=""><img src="img/bobbyflail.jpg" alt="">
- IronChefBobbyFlail,</a> as Belator / Power Negation
+ IronChefBobbyFlail,</a> as Belator / Power Negation 
+ <br>
 
  <a href=""><img src="img/peachypixel.jpg" alt="">
  PeachyPixel8,</a> as Trunk Slamchest / Super Strength 
+ <br>
 
  <a href=""><img src="img/thetilla.jpg" alt="">
  TheTilla,</a> as Rabbit / Hypnosis & Magic
+ <br>
 
  <a href=""><img src="img/ponypunch.jpg" alt="">
  Pony_Punch,</a> as The Revengerer / Control Nature
+ <br>
 
  <a href=""><img src="img/distractedelf.jpg" alt="">
  DistractedElf</a> as Goo Girl / Superhuman Elasticity
+ <br>
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
+</div>
 
 <div class="header">
 <h1>Dustvale</h1></div>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
-Players:
+<div class="show">
+<h3>Players:</h3>
  <a href=""><img src="img/brotatoe.jpg" alt="Brotatoe">
  Brotatoe</a> as Kenneth / Wizard
+ <br>
 
  <a href=""><img src="img/connor.jpg" alt="ConnorCronus">
  ConnorCronus</a> as Karlias / Gunslinger
+<br>
 
  <a href=""><img src="img/tenchi.jpg" alt="HJTenchi">
  HJTenchi</a> as Arden / Cleric 
+ <br>
 
  <a href=""><img src="img/tuesday.jpg" alt="TuesdayGrey">
  TuesdayGrey</a> as Lash / Rogue
+ <br>
 
  and <a href=""><img src="img/fairlight.jpg" alt="Fairlight Excalibur">
  Fairlight Excalibur</a> as Raja / Ranger
+ <br>
 
 Weekly show live Wednesday's at NOON PDT on https://www.twitch.tv/BradWOTO
-
+<br>
+</div>
 
 <div class="header"><h1>Ilios</h1></div>
  <h2>DM: 
  <a href="">Brotatoe</a></h2>
 
-Players:
+<div class="show">
+<h3>Players:</h3>
  <a href=""><img src="img/vandi.jpg" alt="OMGVandi">
  OMGVandi</a> as Nyra / Ranger
+<br>
 
  <a href=""><img src="img/connor.jpg" alt="ConnorCronus">
  ConnorCronus</a> as Garthus / Barbarian
+<br>
 
  <a href=""><img src="img/bradwoto.jpg" alt="Bradwoto">
  BradWOTO</a> as Gooch / Monk
+ <br>
 
  <a href=""><img src="img/friskk.jpg" alt="Friskk">
  Friskk</a> as Ethel / Bard
+ <br>
 
  <a href=""><img src="img/zotbot.jpg" alt="ZotBot">
  ZotBot</a> as Bigglesby / Sorcerer
+ <br>
 
 Weekly show live Sundays at 3PM EST on https://www.twitch.tv/Brotatoe
+<br>
+</div>
 
 <div class="header">
 <h1>Khwarezmia</h1></div>
  <h2>DM: 
  <a href="">IronChefBobbyFlail</a></h2>
 
-Players:
+<div class="show">
+<h3>Players:</h3>
  <a href=""><img src="img/bradwoto.jpg" alt="Bradwoto">
  BradWOTO</a> as Kastar / Old Knight
+ <br>
 
  <a href=""><img src="img/peachypixel.jpg" alt="PeachyPixel8">
  PeachyPixel8,</a> as Qog Orc Gunslinger
+ <br>
 
  <a href=""><img src="img/ponypunch.jpg" alt="PonyPunch">
  Pony_Punch,</a> as Jodariel / Elf War Cleric
+ <br>
 
  <a href=""><img src="img/distractedelf.jpg" alt="DistractedElf">
- DistractedElf</a> as Narrat / Elf Assasian
+ DistractedElf</a> as Narrat / Elf Assasian 
+ <br>
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
-
+<br>
+</div>
 
 <div class="header">
 <h1>Neon Scream</h1></div>
  <h2>DM: 
  <a href="">WackSteven</a></h2>
  
-Players:
+ <div class="show">
+ <h3>Players:</h3>
  <a href=""><img src="img/Brotatoe.jpg" alt="Brotatoe">
  Brotatoe</a> as Boom Boom / 
+ <br>
 
  <a href=""><img src="img/mavshow.jpg" alt="TheMavShow">
  TheMavShow</a> as Genevieve
+ <br>
 
  <a href=""><img src="img/tinypixxels.jpg" alt="TinyPixxels">
  TinyPixxels</a>  Sellia Vos
+<br>
 
  <a href=""><img src="img/domesticdan.jpg" alt="DomesticDan">
  DomesticDan</a> as Richard N. Fo
+ <br>
  
  <a href=""><img src="img/goobers.jpg" alt="Goobers515">
  Goobers515</a> as Gmon Frost
+ <br>
 
 Weekly Show Live on Fridays at 7pm EST on http://twitch.tv/brotatoe 
+<br>
+</div>
 
 <div class="header">
 <h1>Pandemonium</h1></div>
  <h2>DM: 
  <a href="">DistractedElf</a></h2>
 
-Players:
+<div class="show">
+<h3>Players:<h3>
  <a href=""><img src="img/bobbyflail.jpg" alt="IronChefBobbyFlail">
  IronChefBobbyFlail,</a> as Ricky / Driver
+ <br>
 
  <a href=""><img src="img/peachypixel.jpg" alt="PeachyPixel8">
  PeachyPixel8,</a> as Feather / Brainer
+ <br>
 
  <a href=""><img src="img/thetilla.jpg" alt="TheTilla">
  TheTilla,</a> as K / Battle Babe
+ <br>
 
  <a href=""><img src="img/ponypunch.jpg" alt="PonyPunch">
  Pony_Punch,</a> as Phil / Hocus
+ <br>
 
  <a href=""><img src="img/bradwoto.jpg" alt="Bradwoto">
  BradWOTO</a> as Gargant / Faceless
+ <br>
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
+<br>
+</div>
 
 <div class="header">
 <h1>Storm King's Thunder</h1></div>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
-Players: 
+<div class="show">
+<h3>Players:</h3>
  <a href=""><img src="img/brotatoe.jpg" alt="Brotatoe">
  Brotatoe</a> as Gidieon Theil / Gnome Paladin
+ <br>
 
  <a href=""><img src="img/teawrex.jpg" alt="TeaWrex">
  TeaWrex</a> as Boulder / Dragonborn Fighter
+ <br>
 
  <a href=""><img src="img/connor.jpg" alt="ConnorCronus">
  ConnorCronus</a> as Gamile Xerexes / Dwarf Barbarian
+ <br>
 
  <a href=""><img src="img/austenmarie.jpg" alt="AustenMarie">
  AustenMarie</a> as Savari The Great / Tiefling Bard
+ <br>
 
 Weekly show live Sunday's at 5PM EST on https://www.twitch.tv/brotatoe
-
-</ul>
+<br>
+</div>
+</div>
 
 </body>
 
