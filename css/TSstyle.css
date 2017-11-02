@@ -1,7 +1,7 @@
 
 
 body {
-	font-family: Trebuchet MS, 'Varela Round', sans-serif;
+	font-family: "Trebuchet MS", "Varela Round", "sans-serif";
 	line-height: 1.6;
 	color: black;
 }
@@ -15,10 +15,6 @@ h2,
 h3,
 a {
 	color: #A27D00;
-.header {
-	background-color: #A27D00;
-	}
-	
 }
 
 a {
@@ -56,4 +52,15 @@ img:hover {
 .pagenav {
 display: flex;
 flex-wrap: wrap;
+}
+
+.header {
+background-color: #A27D00;
+
+}
+	
+
+.showlist{
+display: flex;
+flex-direction: column;
 }
