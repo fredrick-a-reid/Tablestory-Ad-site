@@ -25,6 +25,26 @@ a {
 	text-decoration: none;
 }
 
+/* unvisited link */
+a:link {
+    color: ;
+}
+
+/* visited link */
+a:visited {
+    color: ;
+}
+
+/* mouse over link */
+a:hover {
+    color: ;
+}
+
+/* selected link */
+a:active {
+    color: ;
+}
+
 img {
 	max-width: 100%;
 }
