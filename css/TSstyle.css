@@ -27,22 +27,22 @@ a {
 
 /* unvisited link */
 a:link {
-    color: ;
+    color: #A27D00;
 }
 
 /* visited link */
 a:visited {
-    color: ;
+    color: #593a12;
 }
 
 /* mouse over link */
 a:hover {
-    color: ;
+    color: #fcea2a;
+	transform: scale(1.5, 1.5);
 }
 
 /* selected link */
 a:active {
-    color: ;
 }
 
 img {
