@@ -3,12 +3,13 @@
 <head><a href=""><img src="img/tavernly.jpg" alt="Banner"></a></head>
 <body> 
 <ul>
-<div class="header"><h1>Ascendance</h1></div>
+<div class="header">
+<h1>Ascendance</h1></div>
 DM: 
 <a href="">Brotatoe</a>
 
 Players:
- <a href=""><img src="img/kiwion.jpg" alt="Kiwion"></a>
+<a href=""><img src="img/kiwion.jpg" alt="Kiwion"></a>
  <a href="">Kiwion,</a> as Thea Ashe / Rogue
  
  <a href=""><img src="img/fairlight.jpg" alt="Fairlight Excalibur">Fairlight_Excalibur,</a> 
@@ -20,7 +21,7 @@ Players:
  <a href=""><img src="img/elspeth.jpg" alt="Elspeth">Elspeth</a>
  as Aniphora Mystis / Bard
 
-<h1>BAMF!!!</h1>
+<div class="header"><h1>BAMF!!!</h1></div>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
@@ -42,7 +43,8 @@ Players:
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 
-<h1>Dustvale</h1>
+<div class="header">
+<h1>Dustvale</h1></div>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
@@ -65,7 +67,7 @@ Players:
 Weekly show live Wednesday's at NOON PDT on https://www.twitch.tv/BradWOTO
 
 
-<h1>Ilios</h1>
+<div class="header"><h1>Ilios</h1></div>
  <h2>DM: 
  <a href="">Brotatoe</a></h2>
 
@@ -87,7 +89,8 @@ Players:
 
 Weekly show live Sundays at 3PM EST on https://www.twitch.tv/Brotatoe
 
-<h1>Khwarezmia</h1>
+<div class="header">
+<h1>Khwarezmia</h1></div>
  <h2>DM: 
  <a href="">IronChefBobbyFlail</a></h2>
 
@@ -107,7 +110,8 @@ Players:
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 
 
-<h1>Neon Scream</h1>
+<div class="header">
+<h1>Neon Scream</h1></div>
  <h2>DM: 
  <a href="">WackSteven</a></h2>
  
@@ -129,7 +133,8 @@ Players:
 
 Weekly Show Live on Fridays at 7pm EST on http://twitch.tv/brotatoe 
 
-<h1>Pandemonium</h1>
+<div class="header">
+<h1>Pandemonium</h1></div>
  <h2>DM: 
  <a href="">DistractedElf</a></h2>
 
@@ -151,7 +156,8 @@ Players:
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 
-<h1>Storm King's Thunder</h1>
+<div class="header">
+<h1>Storm King's Thunder</h1></div>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
