@@ -63,4 +63,5 @@ background-color: #A27D00;
 .showlist{
 display: flex;
 flex-direction: column;
+flex-wrap: wrap;
 }
