@@ -28,3 +28,8 @@ img {
 img:hover { 
     background-color: #A27D00;
 }
+
+.pagenav {
+display: flex;
+flex-wrap: wrap;
+}
