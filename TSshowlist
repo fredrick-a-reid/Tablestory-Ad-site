@@ -3,7 +3,7 @@
 <head><a href=""><img src="img/tavernly.jpg" alt="Banner"></a></head>
 <body> 
 <ul>
-<h1>Ascendance</h1>
+<div class="header"><h1>Ascendance</h1></div>
 DM: 
 <a href="">Brotatoe</a>
 
@@ -20,7 +20,7 @@ Players:
  <a href=""><img src="img/elspeth.jpg" alt="Elspeth">Elspeth</a>
  as Aniphora Mystis / Bard
 
-<h1 id="header">BAMF!!!</h1>
+<h1>BAMF!!!</h1>
  <h2>DM: 
  <a href="">BradWOTO</a></h2>
 
