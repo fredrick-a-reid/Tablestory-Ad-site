@@ -11,15 +11,23 @@ p {
 	font-size: 2.5em;
 		margin-bottom: 2.0em;
 }
-/*color headings and Hypertext links*/
-h2,
-h3,
-a {
-	color: #A27D00;
+/*Background color headings*/
+
+.header
+{
+	background-color: #A27D00;
+	
+}
+	
+h1 {
+	color:ffffff;
+}
+
 }
 /*styling Hypertext Links*/
 a {
 	text-decoration: underlined;
+	color: #A27D00;
 }
 
 /* unvisited link */
@@ -63,8 +71,16 @@ background-color: #51351c;
 }
 	
 /* wrap the shows into a columned flexbox*/
-.showlist{
+.showlists,
+.shows,
+.player  {
 	display: flex;
+		flex-wrap: wrap;
+			flex: 1, 70%;
+}
+
+
+.showlists, {
 		flex-direction: column;
-			flex-wrap: wrap;
+			
 }
