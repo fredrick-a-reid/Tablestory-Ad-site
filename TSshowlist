@@ -1,75 +1,96 @@
 <html>
 <title>Tablestory Showlist</title>
-<head><a href=""><img src="img/tavernly.jpg" alt="Banner"></a></head>
+<head><a href="">
+<img src="img/tavernly.jpg" alt="Banner"></a></head>
 <body> 
 
 <div class="showlists"> 
 <div class="header">
-<h1>Ascendance</h1></div>
+<h1>Ascendance</h1>
+</div>
 
 <div class="show">
 DM: 
-<a href="">Brotatoe</a>
+<a href="https://go.twitch.tv/brotatoe">Brotatoe</a>
 
 <h3>Players:</h3>
+<div class="player">
 <a href="https://go.twitch.tv/Kiwo">
 <img src="img/kiwion.jpg" alt="Kiwion"></a>
  <p><a href="">Kiwion,</a> as Thea Ashe / Rogue</p>
  <br>
+ </div>
  
+ <div class="player">
  <a href="https://go.twitch.tv/fairlight_excalibur">
  <img src="img/fairlight.jpg" alt="Fairlight Excalibur">Fairlight_Excalibur,</a> 
 <p> as Gotho / Monk</p>
  <br>
+  </div>
  
+ <div class="player">
  <a href="https://go.twitch.tv/general_mittenz">
  <img src="img/generalmittenz.jpg" alt="General Mittenz">General_Mittenz,</a> 
  <p>as Jodie Monet / Fighter</P>
  <br>
+  </div>
  
+ <div class="player">
  <a href="https://go.twitch.tv/elspeth">
  <img src="img/elspeth.jpg" alt="Elspeth">Elspeth</a>
  <p>as Aniphora Mystis / Bard
  <br>
+  </div>
  
  Weekly show live Tuesday's at 7PM EST on https://www.twitch.tv/brotatoe
 <br>
 </p>
  </div>
 
-<div id="header">
+<div class="header">
 <h1>BAMF!!!</h1>
 </div>
 
  <h2>DM: 
- <a href="">BradWOTO</a></h2>
+ <a href="https://go.twitch.tv/bradwoto">BradWOTO</a></h2>
 
 <div class="show">
 <h3>Players:</h3>
+
+<div class="player">
  <a href="https://go.twitch.tv/ironchefbobbyflail">
- <img src="img/bobbyflail.jpg" alt="bobbyflail">
- <p>IronChefBobbyFlail,</a> as Belator / Power Negation 
+  <img src="img/bobbyflail.jpg" alt="bobbyflail">
+   <p>IronChefBobbyFlail,</a> as Belator / Power Negation 
  <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/peachypixel8">
- <img src="img/peachypixel.jpg" alt="peachypixel">
- <p>PeachyPixel8,</a> as Trunk Slamchest / Super Strength 
+  <img src="img/peachypixel.jpg" alt="peachypixel">
+   <p>PeachyPixel8,</a> as Trunk Slamchest / Super Strength 
  <br></p>
-
+  </div>
+ 
+<div class="player">
  <a href="https://go.twitch.tv/thetilla">
- <img src="img/thetilla.jpg" alt="thetilla">
- <p>TheTilla,</a> as Rabbit / Hypnosis & Magic
+  <img src="img/thetilla.jpg" alt="thetilla">
+   <p>TheTilla,</a> as Rabbit / Hypnosis & Magic
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/ponypunch">
- <img src="img/ponypunch.jpg" alt="ponypunch">
- <p>Pony_Punch,</a> as The Revengerer / Control Nature
+  <img src="img/ponypunch.jpg" alt="ponypunch">
+   <p>Pony_Punch,</a> as The Revengerer / Control Nature
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/distractedelf">
- <img src="img/distractedelf.jpg" alt="distractedelf">
- <p>DistractedElf</a> as Goo Girl / Superhuman Elasticity
+  <img src="img/distractedelf.jpg" alt="distractedelf">
+   <p>DistractedElf</a> as Goo Girl / Superhuman Elasticity
  <br>
+  </div>
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 <br>
@@ -81,34 +102,45 @@ Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 </div>
 
  <h2>DM: 
- <a href="">BradWOTO</a></h2>
+ <a href="https://go.twitch.tv/bradwoto">BradWOTO</a></h2>
 
 <div class="show">
 <h3>Players:</h3>
+
+<div class="player">
  <a href="https://go.twitch.tv/brotatoe">
- <img src="img/brotatoe.jpg" alt="Brotatoe">
- <p>Brotatoe</a> as Kenneth / Wizard
+  <img src="img/brotatoe.jpg" alt="Brotatoe">
+   <p>Brotatoe</a> as Kenneth / Wizard
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/connorcronus">
- <img src="img/connor.jpg" alt="ConnorCronus">
- <p>ConnorCronus</a> as Karlias / Gunslinger
+  <img src="img/connor.jpg" alt="ConnorCronus">
+   <p>ConnorCronus</a> as Karlias / Gunslinger
 <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/hjtenchi">
- <img src="img/tenchi.jpg" alt="HJTenchi">
- <p>HJTenchi</a> as Arden / Cleric 
+  <img src="img/tenchi.jpg" alt="HJTenchi">
+   <p>HJTenchi</a> as Arden / Cleric 
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/tuesdaygrey">
- <img src="img/tuesday.jpg" alt="TuesdayGrey">
- <p>TuesdayGrey</a> as Lash / Rogue
+  <img src="img/tuesday.jpg" alt="TuesdayGrey">
+   <p>TuesdayGrey</a> as Lash / Rogue
  <br></p>
+  </div>
 
+<div class="player">
  and <a href="https://go.twitch.tv/fairlight_excalibur">
  <img src="img/fairlight.jpg" alt="Fairlight Excalibur">
  <p>Fairlight Excalibur</a> as Raja / Ranger
  <br>
+  </div>
 
 Weekly show live Wednesday's at NOON PDT on https://www.twitch.tv/BradWOTO
 <br>
@@ -120,34 +152,45 @@ Weekly show live Wednesday's at NOON PDT on https://www.twitch.tv/BradWOTO
 </div>
 
  <h2>DM: 
- <a href="">Brotatoe</a></h2>
+ <a href="https://go.twitch.tv/brotatoe">Brotatoe</a></h2>
 
 <div class="show">
 <h3>Players:</h3>
+
+<div class="player">
  <a href="https://go.twitch.tv/omgvandi">
  <img src="img/vandi.jpg" alt="OMGVandi">
  <p>OMGVandi</a> as Nyra / Ranger
 <br></p>
+</div>
 
+<div class="player">
  <a href="https://go.twitch.tv/connorcronus">
  <img src="img/connor.jpg" alt="ConnorCronus">
  <p>ConnorCronus</a> as Garthus / Barbarian
 <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/bradwoto">
  <img src="img/bradwoto.jpg" alt="Bradwoto">
  <p>BradWOTO</a> as Gooch / Monk
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/friskk">
  <img src="img/friskk.jpg" alt="Friskk">
  <p>Friskk</a> as Ethel / Bard
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/zotbot">
  <img src="img/zotbot.jpg" alt="ZotBot">
  <p>ZotBot</a> as Bigglesby / Sorcerer
  <br>
+  </div>
 
 Weekly show live Sundays at 3PM EST on https://www.twitch.tv/Brotatoe
 <br>
@@ -159,29 +202,38 @@ Weekly show live Sundays at 3PM EST on https://www.twitch.tv/Brotatoe
 </div>
 
 <h2>DM: 
- <a href="">IronChefBobbyFlail</a></h2>
+ <a href="https://go.twitch.tv/ironchefbobbyflail">IronChefBobbyFlail</a></h2>
 
 <div class="show">
 <h3>Players:</h3>
+
+<div class="player">
  <a href="https://go.twitch.tv/bradwoto">
  <img src="img/bradwoto.jpg" alt="Bradwoto">
  <p>BradWOTO</a> as Kastar / Old Knight
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/peachypixel8">
  <img src="img/peachypixel.jpg" alt="PeachyPixel8">
  <p>PeachyPixel8,</a> as Qog Orc Gunslinger
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/ponypunch">
  <img src="img/ponypunch.jpg" alt="PonyPunch">
  <p>Pony_Punch,</a> as Jodariel / Elf War Cleric
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/distractedelf">
  <img src="img/distractedelf.jpg" alt="DistractedElf">
  <p>DistractedElf</a> as Narrat / Elf Assasian 
  <br>
+  </div>
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 <br>
@@ -193,34 +245,45 @@ Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 </div>
 
  <h2>DM: 
- <a href="">WackSteven</a></h2>
+ <a href="https://go.twitch.tv/wacksteven">WackSteven</a></h2>
  
  <div class="show">
  <h3>Players:</h3>
+ 
+ <div class="player">
  <a href="https://go.twitch.tv/brotatoe">
  <img src="img/Brotatoe.jpg" alt="Brotatoe">
 <p>Brotatoe</a> as Boom Boom / 
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/themavshow">
  <img src="img/mavshow.jpg" alt="TheMavShow">
  <p>TheMavShow</a> as Genevieve
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/tinypixxels">
  <img src="img/tinypixxels.jpg" alt="TinyPixxels">
  <p>TinyPixxels</a>  Sellia Vos
 <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/domesticdan">
  <img src="img/domesticdan.jpg" alt="DomesticDan">
  <p>DomesticDan</a> as Richard N. Fo
  <br></p>
+  </div>
  
+ <div class="player">
  <a href="https://go.twitch.tv/goobers515">
  <img src="img/goobers.jpg" alt="Goobers515">
  <p>Goobers515</a> as Gmon Frost
  <br>
+  </div>
 
 Weekly Show Live on Fridays at 7pm EST on http://twitch.tv/brotatoe 
 <br>
@@ -236,30 +299,41 @@ Weekly Show Live on Fridays at 7pm EST on http://twitch.tv/brotatoe
 
 <div class="show">
 <h3>Players:<h3>
+
+<div class="player">
  <a href="https://go.twitch.tv/ironchefbobbyflail">
  <img src="img/bobbyflail.jpg" alt="IronChefBobbyFlail">
 <p> IronChefBobbyFlail,</a> as Ricky / Driver
  <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/peachypixel8">
  <img src="img/peachypixel.jpg" alt="PeachyPixel8">
  <p>PeachyPixel8,</a> as Feather / Brainer
  <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/thetilla">
  <img src="img/thetilla.jpg" alt="TheTilla">
  <p>TheTilla,</a> as K / Battle Babe
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/ponypunch">
  <img src="img/ponypunch.jpg" alt="PonyPunch">
  <p>Pony_Punch,</a> as Phil / Hocus
  <br></p>
+ </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/bradwoto">
  <img src="img/bradwoto.jpg" alt="Bradwoto">
  <p>BradWOTO</a> as Gargant / Faceless
  <br>
+  </div>
 
 Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 <br>
@@ -271,29 +345,38 @@ Weekly show live Tuesday's at 3PM EST on https://www.twitch.tv/BradWOTO
 </div>
 
  <h2>DM: 
- <a href="">BradWOTO</a></h2>
+ <a href="https://go.twitch.tv/bradwoto">BradWOTO</a></h2>
 
 <div class="show">
 <h3>Players:</h3>
+
+<div class="player">
  <a href="https://go.twitch.tv/brotatoe">
 <img src="img/brotatoe.jpg" alt="Brotatoe">
 <p>Brotatoe</a> as Gidieon Theil / Gnome Paladin
  <br></p>
+  </div>
 
+<div class="player">
  <a href="https://go.twitch.tv/teawrex">
  <img src="img/teawrex.jpg" alt="TeaWrex">
  <p>TeaWrex</a> as Boulder / Dragonborn Fighter
  <br></p>
-
+  </div>
+ 
+<div class="player">
  <a href="https://go.twitch.tv/connorcronus">
  <img src="img/connor.jpg" alt="ConnorCronus">
  <p>ConnorCronus</a> as Gamile Xerexes / Dwarf Barbarian
  <br></p>
-
+  </div>
+ 
+<div class="player">
  <a href="https://go.twitch.tv/austenmarie">
  <img src="img/austenmarie.jpg" alt="AustenMarie">
  <p>AustenMarie</a> as Savari The Great / Tiefling Bard
  <br>
+  </div>
 
 Weekly show live Sunday's at 5PM EST on https://www.twitch.tv/brotatoe
 <br>
