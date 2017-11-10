@@ -8,7 +8,8 @@
 	<link rel="stylesheet" href="css/TSstyle.css">
 </head>
 <body>
-		
+	
+	<ul>
 <li><a href=""><img src="img/Ascendance.jpg" alt="Ascendance" height="30" width="30">Ascendance</a></li>
 <li><a href=""><img src="img/Ilios.jpg" alt="Ilios" height="30" width="30">Ilios</a></li>
 <li><a href=""><img src="img/Dustvale.jpg" alt="Dustvale" height="30" width="30">Dustvale</a><li>
