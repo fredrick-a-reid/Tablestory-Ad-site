@@ -3,7 +3,7 @@
 body {
 	font-family: "Trebuchet MS", "Varela Round", "sans-serif";
 		line-height: 1.6;
-			color: black;
+			color: #000000;
 }
 
 /*change paragraph font size and margins*/
@@ -20,13 +20,13 @@ p {
 }
 	
 h1 {
-	color:ffffff;
+	color: #ffffff;
 }
 
 }
 /*styling Hypertext Links*/
 a {
-	text-decoration: underlined;
+	text-decoration: underline;
 	color: #A27D00;
 }
 
@@ -69,6 +69,10 @@ img:hover {
 .header {
 background-color: #51351c;
 }
+
+.header {
+	color: #ffffff;
+}
 	
 /* wrap the shows into a columned flexbox*/
 .showlists,
@@ -83,4 +87,10 @@ background-color: #51351c;
 .showlists, {
 		flex-direction: column;
 			
+}
+
+.player img { 
+	flex-grow: 2;
+		justify-content: space-around;
+			max-width: 250px;
 }
